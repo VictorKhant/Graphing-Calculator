@@ -1,7 +1,7 @@
 
 # Work Report
 
-## Name: <ins> your name goes here </ins>
+## Name: <ins> Myat Khant (Victor) </ins>
 
 ## Features:
 
@@ -21,6 +21,7 @@
 <br><br>
 
 - Bugs
+  - typing letters in textbox with crash the program
   - Known bugs
 
 <br><br>
