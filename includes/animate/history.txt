@@ -1,0 +1,6 @@
+sin(x)
+cos(x)
+tan(x)
+x*sin(1/x)
+1/x
+sin(8*x)
