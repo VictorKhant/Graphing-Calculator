@@ -1,51 +1,12 @@
+How To Use
 
-# Work Report
+- Press enter to put in your desired equation and click enter again to generate the graph.
 
-## Name: <ins> Myat Khant (Victor) </ins>
+- Move the graph by using arrow keys.
 
-## Features:
+- Scroll Up and Scroll Down the mouse wheel to zoom in and zoom out.
 
-- Not Implemented:
-  - what features have been implemented
+- Press Space to return to original domain.
 
-<br><br>
-
-- Implemented:
-  - what has been implemented
-
-<br><br>
-
-- Partly implemented:
-  - what features have not been implemented
-
-<br><br>
-
-- Bugs
-  - typing letters in textbox with crash the program
-  - Known bugs
-
-<br><br>
-
-# Reflections:
-
-- Any thoughts you may have and would like to share.
-
-# **output**
-<pre>
-<br/><br/><br/><br/>
-## Delete this line and paste the output of your basic test and then testB here
-</pre>
-
-
-<br/><br/>
-
-# basic_test.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
-# testB.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
-
+- Press S to save your desired graph to history list.
 
